@@ -1,0 +1,13 @@
+venv/
+myvenv/
+
+# Django-related files
+*.pyc
+__pycache__/
+db.sqlite3
+
+# System-specific
+.DS_Store
+
+# GitHub settings
+.git/
